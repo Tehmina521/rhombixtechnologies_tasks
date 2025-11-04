@@ -49,14 +49,14 @@ The notebook includes:
 
 ## 🎥 Task Submission Video
 
-I recorded a short explanation video showcasing my notebook, approach, and results.
-You can view it on LinkedIn here:
-🔗 My LinkedIn Post
+I recorded a short explanation video showcasing my notebook, approach, and results.  
+You can view it on LinkedIn here: [My LinkedIn Post](https://www.linkedin.com/)
+
 ---
 
 ## 🧾 Conclusion & Insights
 
-- - Gender was the most influential factor — females had a much higher survival rate.
+-  Gender was the most influential factor — females had a much higher survival rate.
 
 - Passenger Class (Pclass) strongly affected survival — 1st class passengers were more likely to survive.
 
