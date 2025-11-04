@@ -26,6 +26,27 @@ The notebook includes:
 
 ---
 
+## 🧰 Requirements
+
+Before running the notebook, make sure you have the following installed:
+
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+
+
+# Main Libraries Used:
+
+- pandas — Data manipulation and analysis
+
+- numpy — Numerical computations
+
+- matplotlib, seaborn — Data visualization
+
+- scikit-learn — Machine learning model building and evaluation
+
+- xgboost — (Optional) Advanced model for higher accuracy
+
+  ---
+  
 ## ▶️ How to Run
 
 1. Clone this repository
@@ -42,8 +63,11 @@ The notebook includes:
 ## 📈 Sample Visualizations
 
 🔹 Example Chart
-
-
+<img width="1366" height="689" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/673c5565-cb6f-44d6-9f58-df4920ed8d2f" />
+<img width="1366" height="683" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/94329470-c764-4a6f-9f14-3814e9e8b405" />
+<img width="1366" height="665" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/372b3581-3c51-458d-9635-3765c3afddf9" />
+<img width="1366" height="673" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/17764b14-2a8a-43e2-aa19-87bc55027d8a" />
+<img width="1366" height="665" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/5e1c052a-2d90-4c01-ad37-94a8f5cd4882" />
 
 ---
 
