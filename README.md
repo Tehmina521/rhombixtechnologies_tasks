@@ -39,7 +39,7 @@ jupyter notebook
 
 ---
 
-📈 Sample Visualizations
+## 📈 Sample Visualizations
 
 🔹 Example Chart
 
@@ -47,14 +47,14 @@ jupyter notebook
 
 ---
 
-🎥 Task Submission Video
+## 🎥 Task Submission Video
 
 I recorded a short explanation video showcasing my notebook, approach, and results.
 You can view it on LinkedIn here:
 🔗 My LinkedIn Post
 ---
 
-🧾 Conclusion & Insights
+## 🧾 Conclusion & Insights
 
 Gender was the most influential factor — females had a much higher survival rate.
 
@@ -70,7 +70,7 @@ The Random Forest model achieved around 80–85% accuracy.
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Tehmina Afzal
 Data Science Intern – Rhombix Technologies
