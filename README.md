@@ -55,7 +55,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 2. Navigate into the folder
    *cd rhombixtechnologies_tasks*
 3. Open the notebook in Jupyter
-*jupyter notebook*
+**jupyter notebook**
 4. Run the cells step by step to reproduce the analysis and results.
 
 ---
@@ -74,7 +74,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ## 🎥 Task Submission Video
 
 I recorded a short explanation video showcasing my notebook, approach, and results.  
-You can view it on LinkedIn here: [My LinkedIn Post](https://www.linkedin.com/)
+You can view it on LinkedIn here: [My LinkedIn Post](https://www.linkedin.com/posts/afzal-tehmina_datascience-machinelearning-python-activity-7391395572974243842-DiRQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFntd2EBm_kETBUVRaRP1SjpdNidg-eYa4g)
 
 ---
 
