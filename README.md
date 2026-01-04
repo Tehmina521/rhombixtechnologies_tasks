@@ -54,7 +54,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
    git clone https://github.com/Tehmina521/rhombixtechnologies_tasks.git
 2. Navigate into the folder
    *cd rhombixtechnologies_tasks*
-3. Open the notebook in Jupyter
+3. Open the notebook in 
 **jupyter notebook**
 4. Run the cells step by step to reproduce the analysis and results.
 
